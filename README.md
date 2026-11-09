@@ -13,7 +13,7 @@
   />
 </picture>
 
-👋 Hi! I'm ROBYN, a software developer passionate about AI, technology and creating innovative solutions.
+👋 Hi! I'm ROBYN, an AI & Automation Engineer passionate about technology and creating innovative solutions.
 
 ## Find me at
 
